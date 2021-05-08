@@ -427,3 +427,17 @@ div.dataTables_wrapper div.dataTables_filter input {
 .material-icons {
     vertical-align: bottom !important;
 }
+.w-5 {
+    width: 1.25rem;
+}
+.h-5 {
+    height: 1.25rem;
+}
+a {
+    color: #ff6d00;
+    text-decoration: none;
+}
+a:hover {
+    color: #ff6d00;
+    text-decoration: underline;
+}
