@@ -1,6 +1,6 @@
 $(document).ready(function() {
     delegatesDataURL = "http://delegates.xcash.foundation/getdelegates";
-    lastBlockDataURL = "https://explorer.x-cash.org/getlastblockdata";
+    lastBlockDataURL = "https://explorer.getxcash.org/getlastblockdata";
 
     totalBlocksPerDay = 288;
     totalBlockVerifiers = 45;
